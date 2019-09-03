@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9075f67e-a8d6-4623-9603-ce49f4281532" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dynamic/dongtu.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic/dongtu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/00.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/caimiao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/fan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/fudi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/ghost.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/gray.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/heibai.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/huaijiu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/lvjing.py" beforeDir="false" afterPath="$PROJECT_DIR$/special-efficacy/lvjing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/mai.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/manhua.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/masaike.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/special-efficacy/sumiao.png" beforeDir="false" />
-    </list>
+    <list default="true" id="9075f67e-a8d6-4623-9603-ce49f4281532" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dynamic/dongtu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="144">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -274,23 +258,22 @@
       <option name="presentableId" value="Default" />
       <updated>1567514505988</updated>
       <workItem from="1567514507329" duration="3042000" />
-      <workItem from="1567524957159" duration="2052000" />
+      <workItem from="1567524957159" duration="2335000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5094000" />
+    <option name="totallyTimeSpent" value="5377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2590164" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44262296" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44262296" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -390,8 +373,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dynamic/dongtu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state relative-caret-position="144">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
