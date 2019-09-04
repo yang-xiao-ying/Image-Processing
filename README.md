@@ -13,7 +13,11 @@
 
 
 图片旋转剪切组合效果动图展示如下
-![Image text](https://github.com/yang-xiao-ying/Image-Processing/blob/master/img-folder/5.png)
+
 ![Image text](https://github.com/yang-xiao-ying/Image-Processing/blob/master/img-folder/6.gif)
 ![Image text](https://github.com/yang-xiao-ying/Image-Processing/blob/master/img-folder/5.gif)
+
+
+
 ![Image text](https://github.com/yang-xiao-ying/Image-Processing/blob/master/img-folder/7.png)
+![Image text](https://github.com/yang-xiao-ying/Image-Processing/blob/master/img-folder/5.png)
